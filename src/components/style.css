@@ -1,0 +1,11 @@
+#list-decoration{
+    list-style: none;
+}
+
+#btn-card{
+    background: linear-gradient(to right,rgba(207,227,251,1),rgba(255,255,255,0));
+}
+
+#border-style{
+    border: 2px solid aqua;
+}
